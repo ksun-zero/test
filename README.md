@@ -3,7 +3,7 @@
 测试
 dd
 cc
-
+del
 china
 
 china1
